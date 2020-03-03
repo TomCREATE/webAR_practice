@@ -3,7 +3,7 @@
     <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
     <Script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.5.0/aframe/build/aframe-ar.js"></Script>
     <body style='margin : 0px; overflow: hidden;'>
-    <a-scene embedded arjs="debugUIEnabled:true;trackingMethod:best;" vr-mode-ui="enabled: false">
+    <a-scene embedded arjs="debugUIEnabled:false;trackingMethod:best; sourceType: webcam;" vr-mode-ui="enabled: false">
         <a-assets>
             <a-asset-item id="meshi-obj" src="assets/models/meshi_side_1.obj"></a-asset-item>
             <a-asset-item id="meshi-mtl" src="assets/models/meshi_side_1.mtl"></a-asset-item>
