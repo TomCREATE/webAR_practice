@@ -20,7 +20,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/Xd-300x293.png
+map_Kd Xd-300x293.png
 
 newmtl Paint_-_Enamel_Glossy_(Black).016
 Ns 900.000000
@@ -31,7 +31,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/oft.png
+map_Kd oft.png
 
 newmtl Paint_-_Enamel_Glossy_(White)
 Ns 900.000000
@@ -42,7 +42,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/Processing_3_logo.png
+map_Kd Processing_3_logo.png
 
 newmtl Paint_-_Enamel_Glossy_(White).003
 Ns 900.000000
@@ -53,7 +53,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/visual-studio-code-logo-284BC24C39-seeklogo.com_.png
+map_Kd visual-studio-code-logo-284BC24C39-seeklogo.com_.png
 
 newmtl Paint_-_Enamel_Glossy_(White).004
 Ns 900.000000
@@ -64,7 +64,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/Ae.png
+map_Kd Ae.png
 
 newmtl Paint_-_Enamel_Glossy_(White).005
 Ns 900.000000
@@ -75,7 +75,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/Pr-300x300.png
+map_Kd Pr-300x300.png
 
 newmtl Paint_-_Enamel_Glossy_(White).006
 Ns 900.000000
@@ -86,7 +86,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/9269_normal_1500082919_Icon.jpg
+map_Kd 9269_normal_1500082919_Icon.jpg
 
 newmtl Paint_-_Enamel_Glossy_(White).007
 Ns 900.000000
@@ -97,7 +97,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png
+map_Kd adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png
 
 newmtl Paint_-_Enamel_Glossy_(White).008
 Ns 900.000000
@@ -108,7 +108,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/acrobat.png
+map_Kd acrobat.png
 
 newmtl Paint_-_Enamel_Glossy_(White).009
 Ns 900.000000
@@ -119,7 +119,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/437-4375158_autodesk-fusion-360-logo-nt-fusion-360-logo.png
+map_Kd 437-4375158_autodesk-fusion-360-logo-nt-fusion-360-logo.png
 
 newmtl Paint_-_Enamel_Glossy_(White).010
 Ns 900.000000
@@ -130,7 +130,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/matlablogoexample_08_ja_JP.png
+map_Kd matlablogoexample_08_ja_JP.png
 
 newmtl Paint_-_Enamel_Glossy_(White).011
 Ns 900.000000
@@ -141,7 +141,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/Id-300x300.png
+map_Kd Id-300x300.png
 
 newmtl Paint_-_Enamel_Glossy_(White).012
 Ns 900.000000
@@ -152,7 +152,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/Adobe-Creative-Cloud.png
+map_Kd Adobe-Creative-Cloud.png
 
 newmtl Paint_-_Enamel_Glossy_(White).013
 Ns 900.000000
@@ -163,7 +163,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/Blender-icon.png
+map_Kd Blender-icon.png
 
 newmtl Paint_-_Enamel_Glossy_(White).014
 Ns 900.000000
@@ -174,7 +174,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/unity.png
+map_Kd unity.png
 
 newmtl Paint_-_Enamel_Glossy_(White).015
 Ns 900.000000
@@ -185,7 +185,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/logo-symbol.png
+map_Kd logo-symbol.png
 
 newmtl Steel_-_Satin.001
 Ns 900.000000
